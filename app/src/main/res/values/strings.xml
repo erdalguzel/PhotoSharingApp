@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoSaringApp</string>
+    <string name="email_password">Email Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="giriş_yap">Giriş Yap</string>
+    <string name="kaydol">Kaydol</string>
+    <string name="logout">Logout</string>
+    <string name="share_photo">Share photo</string>
+</resources>

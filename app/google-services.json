@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973834479679",
+    "firebase_url": "https://photosharing-b6584.firebaseio.com",
+    "project_id": "photosharing-b6584",
+    "storage_bucket": "photosharing-b6584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973834479679:android:92bdf9edef8f67305af08a",
+        "android_client_info": {
+          "package_name": "com.example.photosaringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973834479679-t1l2jdpcj5271p2ktargcmetvo1a7kf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2m7dOAbJ3orsiUkTiifS5Je9tAXrQZR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973834479679-t1l2jdpcj5271p2ktargcmetvo1a7kf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

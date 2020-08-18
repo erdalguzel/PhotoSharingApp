@@ -6,4 +6,5 @@
     <string name="kaydol">Kaydol</string>
     <string name="logout">Logout</string>
     <string name="share_photo">Share photo</string>
+    <string name="enter_comment">Enter comment:</string>
 </resources>

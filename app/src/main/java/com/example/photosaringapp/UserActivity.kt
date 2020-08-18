@@ -60,8 +60,4 @@ class UserActivity : AppCompatActivity() {
             Toast.makeText(applicationContext, exception.localizedMessage, Toast.LENGTH_LONG).show()
         }
     }
-
-    fun LogoutUser(view: View) {
-        auth.signOut()
-    }
 }
